@@ -3,11 +3,11 @@
 This repository contains my *daily Java practice programs* created while strengthening my core programming fundamentals.
 
 ## 📌 What this repository includes
-- Java basic programs
-- Number logic problems
-- Pattern programs
-- Conditional & loop-based programs
-- Beginner-level problem solving
+- Java basic programs.
+- Number logic problems.
+- Pattern programs.
+- Conditional & loop-based programs.
+- Beginner-level problem solving.
 
 ## 🛠 Technologies Used
 - Java (Core Java)
