@@ -1,4 +1,5 @@
 package com.divya.Basics2;
+
 import java.util.*;
 //program for prime numbers
 

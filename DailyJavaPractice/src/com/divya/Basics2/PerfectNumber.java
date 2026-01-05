@@ -1,4 +1,6 @@
 package com.divya.Basics2;
+
+
 import java.util.*;
 //program for given number is perfect number or not
 
