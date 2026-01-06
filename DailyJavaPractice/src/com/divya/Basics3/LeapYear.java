@@ -1,4 +1,5 @@
 package com.divya.Basics3;
+
 import java.util.*;
 
 public class LeapYear {

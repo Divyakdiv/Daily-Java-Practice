@@ -1,4 +1,5 @@
 package com.divya.basics4;
+
 import java.util.*;
 
 //Replace the 0's and 1's in an Integer
